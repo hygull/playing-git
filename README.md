@@ -16,21 +16,21 @@
 
 > push to `master` branch of remote named origin
 
-git add .
 
-git commit -am "added srcapping() method to Scrap class"
-
-git push -u origin master
+| Commands  |
+| --------  |
+| git add . |
+| git commit -am "added srcapping() method to Scrap class" |
+| git push -u origin master |
 
 ### Example 2 
 
 > push to `working` branch of remote named `origin`
 
-git add .
-
-git commit -am "added display() method to the same class"
-
-git push -u origin master
+| Commands  |
+| git add . |
+| git commit -am "added display() method to the same class" |
+| git push -u origin master |
 
 ### Optional basic commands 
 
