@@ -174,3 +174,10 @@ Date:   Fri Dec 28 12:03:15 2018 +0530
 | git status | To check the status (list of files ready for push operation etc.) |
 | git branch | To check the current working branch |
 
+## References
+
++ [Difference between git pull and git pull](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
+
++ [Solving merge conflicts occured while pulling it](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)
+
++ [Saving changes temporarily - git stash](https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/stashing)
