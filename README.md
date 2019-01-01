@@ -5,6 +5,10 @@ Everyone (who work with projects) should use this.
 
 ![Git details](./images/git-details.png)
 
+## How multiple contributors can interact with a project
+
+![Multiple contributors](./images/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka-768x339.png)
+
 ## Project hosting websites
 
 + Github - https://github.com/ (You can create public projects and there is paid plan for  private projects)
@@ -19,6 +23,7 @@ Everyone (who work with projects) should use this.
 
 ![Common git commands](./images/Common-git-commands.webp)
 
+>
 >  Run the below commands in sequence to push the changes
 
 | Commands  | Description |
@@ -26,6 +31,11 @@ Everyone (who work with projects) should use this.
 | git add . | Adding all changed files, use **git add filename.ext** to add specific one |
 | git commit -am "&lt;your-commit-message&gt;" | Commiting (creating a check point) your changes, making changes ready for push operation | 
 | git push -u &lt;remote-name&gt; &lt;branch-name&gt; | Update remote branch with new changes |
+
+## How add, commit, push, fetch, reset, reset - workflow
+
+![Workflow - add, commit, push, fetch, pull](./images/GitHub-cheat-sheet-graphic-v1.jpg)
+
 
 Let's have a look into a real example executed on Windows (Commnads are same for all platforms).
 
