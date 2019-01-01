@@ -19,8 +19,8 @@ Everyone (who work with projects) should use this.
 | Commands  |
 | --------  |
 | git add . |
-| git commit -am "&laquo;your-commit-message&raquo;" |
-| git push -u &laquo;remote-name&raquo; &laquo;branch-name&raquo; |
+| git commit -am "&lt;your-commit-message&gt;" |
+| git push -u &lt;remote-name&gt; &lt;branch-name&gt; |
 
 Let's have a look into a real example executed on Windows (Commnads are same for all platforms).
 
@@ -145,12 +145,13 @@ Date:   Fri Dec 28 12:03:15 2018 +0530
 
 + git push -u origin master
 
-### Optional basic commands 
+## Basic important & optional commands 
 
 > **Note:** you can run these commands at any time.
 
-| Commands   |
-| ---------- |
-| git log    | 
-| git status |
-| git branch |
+| Commands   | Decription|
+| ---------- | --- |
+| git log    | To list out the commits |
+| git status | To check the status (list of files ready for push operation etc.) |
+| git branch | To check the current working branch |
+
