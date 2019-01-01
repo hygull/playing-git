@@ -3,7 +3,7 @@
 GIT is an excellent version control system for our projects. It saves a lot many tasks/time.
 Everyone (who work with projects) should use this.
 
-## Hosting websites
+## Project hosting websites
 
 + Github - https://github.com/ (You can create public projects and there is paid plan for  private projects)
  
@@ -17,20 +17,20 @@ Everyone (who work with projects) should use this.
 >  Run the below commands in sequence to push the changes
 
 | Commands  | Description |
-| --------  | --- |
-| git add . | Adding all changed files, use `git add filename.ext` to add specific one |
+| :--------  | :--- |
+| git add . | Adding all changed files, use **git add filename.ext** to add specific one |
 | git commit -am "&lt;your-commit-message&gt;" | Commiting (creating a check point) your changes, making changes ready for push operation | 
 | git push -u &lt;remote-name&gt; &lt;branch-name&gt; | Update remote branch with new changes |
 
 Let's have a look into a real example executed on Windows (Commnads are same for all platforms).
 
-### git add . `required`
+### git add .  (`required`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git add .
 ```
 
-### git status `optional`
+### git status (`optional`)
 
 ```
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git status
@@ -45,7 +45,7 @@ Changes to be committed:
 
 ```
 
-### git commit -am "updated em2.html (added support for fg & bg color)"  `required`
+### git commit -am "updated em2.html (added support for fg & bg color)"  (`required`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git commit -am "updated em2.html (added support for fg & bg color)"
@@ -54,7 +54,7 @@ H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git commit -am "updated em2.ht
 
 ```
 
-### git push -u origin master `required`
+### git push -u origin master (`required`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git push -u origin master
@@ -69,7 +69,7 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 ```
 
-### git log `optional`
+### git log (`optional`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git log
