@@ -24,13 +24,13 @@ Everyone (who work with projects) should use this.
 
 Let's have a look into a real example executed on Windows (Commnads are same for all platforms).
 
-### git add .  (`required`)
+### git add .  - (`required`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git add .
 ```
 
-### git status (`optional`)
+### git status - (`optional`)
 
 ```
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git status
@@ -45,7 +45,7 @@ Changes to be committed:
 
 ```
 
-### git commit -am "updated em2.html (added support for fg & bg color)"  (`required`)
+### git commit -am "updated em2.html (added support for fg & bg color)"  - (`required`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git commit -am "updated em2.html (added support for fg & bg color)"
@@ -54,7 +54,7 @@ H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git commit -am "updated em2.ht
 
 ```
 
-### git push -u origin master (`required`)
+### git push -u origin master - (`required`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git push -u origin master
@@ -69,7 +69,7 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 ```
 
-### git log (`optional`)
+### git log - (`optional`)
 
 ```bash
 H:\RishikeshAgrawani\Projects\GenWork\NW\genw-dev>git log
@@ -123,7 +123,7 @@ Date:   Fri Dec 28 12:03:15 2018 +0530
 
 ## Another sample examples
 
-> Let's try.
+> Let's have a look at below sample examples.
 
 ### Example 1 
 
