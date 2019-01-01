@@ -5,9 +5,13 @@ Everyone (who work with projects) should use this.
 
 ![Git details](./images/git-details.png)
 
-## How multiple contributors can interact with a project
+## How multiple collaborators interact with a project?
 
 ![Multiple contributors](./images/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka-768x339.png)
+
+>
+
+![Collaborators](./images/octocat.png)
 
 ## Project hosting websites
 
@@ -32,7 +36,7 @@ Everyone (who work with projects) should use this.
 | git commit -am "&lt;your-commit-message&gt;" | Commiting (creating a check point) your changes, making changes ready for push operation | 
 | git push -u &lt;remote-name&gt; &lt;branch-name&gt; | Update remote branch with new changes |
 
-## How add, commit, push, fetch, reset, reset - workflow
+## add, commit, push, fetch, reset, reset - workflow
 
 ![Workflow - add, commit, push, fetch, pull](./images/GitHub-cheat-sheet-graphic-v1.jpg)
 
