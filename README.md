@@ -9,7 +9,7 @@ Everyone (who work with projects) should use this.
 
 ![Multiple contributors](./images/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka-768x339.png)
 
->
+## Master user and collaborators
 
 ![Collaborators](./images/octocat.png)
 
