@@ -3,6 +3,8 @@
 GIT is an excellent version control system for our projects. It saves a lot many tasks/time.
 Everyone (who work with projects) should use this.
 
+![Git details](./images/git-details.png)
+
 ## Project hosting websites
 
 + Github - https://github.com/ (You can create public projects and there is paid plan for  private projects)
@@ -11,8 +13,11 @@ Everyone (who work with projects) should use this.
 
 + Bitbucket - https://bitbucket.org/ (You can create private and public projects for free)
 
+![GIT-add-pull-fetch](./images/GIT-interview-Question-and-Answers.png)
 
 ## Required basic GIT commands
+
+![Common git commands](./images/Common-git-commands.webp)
 
 >  Run the below commands in sequence to push the changes
 
