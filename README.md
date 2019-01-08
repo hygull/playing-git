@@ -3,6 +3,8 @@
 GIT is an excellent version control system for our projects. It saves a lot many tasks/time.
 Everyone (who work with projects) should use this.
 
+I found [Bitbucket's git tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) as an excellent place to start. They are other resources too.
+
 ![Git details](./images/git-details.png)
 
 ## How multiple collaborators interact with a project?
